@@ -1,0 +1,21 @@
+  header {
+    max-height: 400px;
+    width: 40%;
+    text-align: center;
+    margin: 40px;
+    margin-right: 50px;
+    background-color: #008c8c;
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
+  }
+
+  .img{
+    position: relative;
+    top: 2em;
+  }
+  
+
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .name {
+      padding-bottom: 2em;
+    }
+  }
