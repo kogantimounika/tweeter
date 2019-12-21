@@ -4,9 +4,9 @@ Tweeter is a simple,a Single Page App (SPA) built with HTML, CSS, JS, jQuery and
 
 ## Dependencies
 
-body-parser
-chance
-express
+- body-parser
+- chance
+- express
 
 ## Final Product
 
