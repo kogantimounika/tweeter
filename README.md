@@ -14,7 +14,6 @@ express
 ["Tablet mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/tablet-mode.png)
 ["Tweet Box"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweet-box.png)
 ["Tweets"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweets.png)
-["Tweets"] (https://github.com/kogantimounika/tweeter/blob/master/docs/tweets.png)
 ["alert"](https://github.com/kogantimounika/tweeter/blob/master/docs/alert.png)
 
 ### Getting Started
