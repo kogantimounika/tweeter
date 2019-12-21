@@ -10,10 +10,11 @@ express
 
 ## Final Product
 
-["Laptop Screen"]()
-["Tablet Screen"]()
-["errors"]()
-["text area"] ()
+["Laptop mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/laptop-mode.png)
+["Tablet mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/tablet-mode.png)
+["Tweet Box"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweet-box.png)
+["Tweets"] (https://github.com/kogantimounika/tweeter/blob/master/docs/tweets.png)
+["alert"](https://github.com/kogantimounika/tweeter/blob/master/docs/alert.png)
 
 ### Getting Started
 
