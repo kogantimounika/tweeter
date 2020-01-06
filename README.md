@@ -4,11 +4,11 @@ Tweeter is a simple,a Single Page App (SPA) built with HTML, CSS, JS, jQuery and
 
 ## Final Product
 
-["Laptop mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/laptop-mode.png)
-["Tablet mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/tablet-mode.png)
-["Tweet Box"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweet-box.png)
-["Tweets"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweets.png)
-["alert"](https://github.com/kogantimounika/tweeter/blob/master/docs/alert.png)
+!["Laptop mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/laptop-mode.png)
+!["Tablet mode"](https://github.com/kogantimounika/tweeter/blob/master/docs/tablet-mode.png)
+!["Tweet Box"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweet-box.png)
+!["Tweets"](https://github.com/kogantimounika/tweeter/blob/master/docs/tweets.png)
+!["alert"](https://github.com/kogantimounika/tweeter/blob/master/docs/alert.png)
 
 
 ## Dependencies
